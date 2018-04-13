@@ -1,0 +1,17 @@
+APPLICATION NAME: GREEN MENTOR
+INFORMATION OF IDEA: Read the .ppt file available
+
+ANDROID:
+- Download the .apk available
+
+DJANGO:
+- cd into Green Mentor (Django Code)
+- run the virtual environment
+- run the server on localhost or deploy it
+
+DATASET:
+- Trained on 5 classes available in the zip
+- 3 disease crops and 2 healthy crops
+
+MODEL:
+- Used MobileNets CNN by training the last layers on custom dataset
