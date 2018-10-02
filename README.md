@@ -1,6 +1,6 @@
 An android application that facilitates farmers, scientists and botanists to detect the type of plant or crops, detect pests and any other kind of diseases in them.
-The app sends the image of the plant to the server where it is analysed using CNN classifier model.
-Once detected, the disease and its solutions are displayed to the user. Also the closest pesticides selling centers are suggested.
+The app sends the image of the plant to the server in BASE64 encoded form where it is analysed using CNN classifier model.
+Once detected, the disease and its solutions are displayed to the user. It also suggests the closest pesticides selling centers to the users.
 
 PHASE 1. Collection of DataSet
 PHASE 2. Training
